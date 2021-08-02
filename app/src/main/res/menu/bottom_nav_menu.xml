@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/bs1"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/bs2"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/bs3"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_four"
+        android:icon="@drawable/bs4"
+        android:title="Four" />
+
+    <item
+        android:id="@+id/navigation_five"
+        android:icon="@drawable/bs5"
+        android:title="Five" />
+
+</menu>

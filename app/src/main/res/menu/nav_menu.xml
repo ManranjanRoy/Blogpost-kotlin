@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/info"
+        android:title="About Us" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/privacy"
+        android:title="Privacy policy" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/mydownloads"
+        android:title="My Downloads" />
+
+    <item
+        android:id="@+id/navigation_four"
+        android:icon="@drawable/passward"
+        android:title="Change Password" />
+
+    <item
+        android:id="@+id/navigation_five"
+        android:icon="@drawable/discover"
+        android:title="Discover People" />
+    <item
+        android:id="@+id/navigation_six"
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+
+</menu>
